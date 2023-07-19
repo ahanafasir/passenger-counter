@@ -1,4 +1,4 @@
 # passenger-counter
-a passenger counter app that takes in number inputs and displays the last inputs upon saving. 
+a counter app that increments the passenger count and displays the latest counts upon saving. 
 
 visit: https://psngr-counter.netlify.app/
